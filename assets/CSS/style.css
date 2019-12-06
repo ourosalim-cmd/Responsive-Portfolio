@@ -98,40 +98,9 @@ li a{
     font-size: 16px;
     display: block;
   }
-  #me{
+  img{
     width: 100px;
-    height: 100px;}
-    .pics{
-      width: 100px;
-      height: 100px;
-      display: block;
-    }
+    height: 100px;
+    
   }
-@media only screen and (max-width:980){
-  .pics{height: 160px;
-    width: 30%;
-    margin-bottom: 20px; 
-    margin-top: 20px;
-    margin-left: 00px;
-    margin-right: 20px;
-    padding: 0px;
-  }
-}
-
-.contactfooter{
-  bottom: 0;
-  height: 40px;
-  background-color: #4AAAA5;
-  padding-top: 10px;
-
-}
-.btn{
-  background-color: #4AAAA5;
-}
-
-
-
-.pics{
-  margin-bottom: 20px; 
-    margin-top: 20px;
 }
